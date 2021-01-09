@@ -17,3 +17,4 @@ function App() {
 }
 
 export default App;
+//react-query@1.5.8
